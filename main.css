@@ -9,3 +9,11 @@
 .order-summary-recap .product-list .product--has-image .product__info, .order-summary-recap .product-list .product--has-image .product__price {
   margin-top: inherit;
 }
+
+#shipping-address.fieldset .field:nth-child(2) {
+  border-top: none;
+}
+
+#payment .fieldset .field:nth-child(2) {
+  border-top: none; 
+}
