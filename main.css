@@ -1,3 +1,7 @@
+.order-summary-recap {
+  border-bottom: none;
+}
+
 .order-summary-recap .product__price {
   display: inherit;
 }
