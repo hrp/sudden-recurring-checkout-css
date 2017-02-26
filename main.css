@@ -17,3 +17,7 @@
 #payment .fieldset .field:nth-child(2) {
   border-top: none; 
 }
+
+.total-line--total ~ .total-line--total {
+  display: none;
+}
