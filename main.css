@@ -1,7 +1,9 @@
-.order-summary-recap .product__price {
-  display: inherit;
-}
+.order-summary-recap {
+  .product__price {
+    display: inherit;
+  }
 
-.product-list .product--has-image .product__info, .product-list .product--has-image .product__price {
-  margin-top: inherit;
+  .product-list .product--has-image .product__info, .product-list .product--has-image .product__price {
+    margin-top: inherit;
+  }
 }
