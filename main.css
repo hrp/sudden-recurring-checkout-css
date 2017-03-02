@@ -30,3 +30,11 @@
 .btn:hover {
   background-color: #0062e9;
 }
+
+a {
+  color: #0059d1;
+}
+
+a:hover {
+  color: #0062e9;
+}
