@@ -38,3 +38,11 @@ a {
 a:hover {
   color: #0062e9;
 }
+
+.payment-due__price {
+  color: #444;
+}
+
+@media (min-width: 600px) .order-summary .payment-due-container .payment-due__price {
+  font-weight: 500;
+}
