@@ -21,3 +21,12 @@
 .total-line--total ~ .total-line--total {
   display: none;
 }
+
+.btn {
+  background-color: rgb(5,111,255);
+  border-bottom: 2px solid #0059d1;
+}
+
+.btn:hover {
+  background-color: #0062e9;
+}
