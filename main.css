@@ -31,6 +31,7 @@
 .btn {
   background-color: rgb(5,111,255);
   border-bottom: 2px solid #0059d1;
+  text-transform: uppercase;
 }
 
 .btn:hover {
